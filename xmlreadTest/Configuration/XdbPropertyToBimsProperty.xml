@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XdbToBimsProperty>
+  <InfoNode xdbType="1" xdbVersion="1.0.0.0">
+    <methodeClass>BIMS.DataCenter.XdbToBimsService.XdbToBims.V1.XdbPropertyToBimsProperty.BuildingProperty</methodeClass>
+    <namespace>Architecture</namespace>
+    <methodNode table="Storeys">
+      <className>Storey</className>
+      <method>GetStoreyProps</method>
+    </methodNode>
+    <methodNode table="Walls">
+      <className>Wall</className>
+      <method>GetWallProps</method>
+    </methodNode>
+    <methodNode table="Columns">
+      <className>Column</className>
+      <method>GetColumnProps</method>
+    </methodNode>
+    <methodNode table="Beams">
+      <className>Beam</className>
+      <method>GetBeamProps</method>
+    </methodNode>
+    <methodNode table="Slabs">
+      <className>Slab</className>
+      <method>GetSlabProps</method>
+    </methodNode>
+    <methodNode table="Doors">
+      <className>Door</className>
+      <method>GetDoorProps</method>
+    </methodNode>
+    <methodNode table="Windows">
+      <className>Window</className>
+      <method>GetWindowProps</method>
+    </methodNode>
+    <methodNode table="FlatRoofs">
+      <className>FlatRoof</className>
+      <method>GetFlatRoofProps</method>
+    </methodNode>
+    <methodNode table="Spaces">
+      <className>ArchSpace</className>
+      <method>GetArchSpaceProps</method>
+    </methodNode>
+    <methodNode table="Proxys">
+      <className>Proxy</className>
+      <method>GetProxyProps</method>
+    </methodNode>
+    <methodNode table="other">
+      <className>other</className>
+      <method>GetOthersProps</method>
+    </methodNode>
+  </InfoNode>
+</XdbToBimsProperty>
