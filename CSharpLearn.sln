@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCTest", "CodeContractsTest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xmlreadTest", "xmlreadTest\xmlreadTest.csproj", "{3819E423-FB93-4406-8DB6-521C94932F94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDocker", "TestDocker\TestDocker.csproj", "{0AA8F79C-F4F1-4A1F-8143-CB538739E199}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{3819E423-FB93-4406-8DB6-521C94932F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3819E423-FB93-4406-8DB6-521C94932F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3819E423-FB93-4406-8DB6-521C94932F94}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0AA8F79C-F4F1-4A1F-8143-CB538739E199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0AA8F79C-F4F1-4A1F-8143-CB538739E199}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0AA8F79C-F4F1-4A1F-8143-CB538739E199}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0AA8F79C-F4F1-4A1F-8143-CB538739E199}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
