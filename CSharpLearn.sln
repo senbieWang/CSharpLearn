@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCTest", "CodeContractsTest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xmlreadTest", "xmlreadTest\xmlreadTest.csproj", "{3819E423-FB93-4406-8DB6-521C94932F94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcoreLearn", "aspnetcoreLearn\aspnetcoreLearn.csproj", "{C5C236D1-724D-4018-A2F5-04A7CA5452B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambdaLearn", "lambdaLearn\lambdaLearn.csproj", "{14DE8D64-BE51-4A5B-8A7D-FCDBEBF304EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3819E423-FB93-4406-8DB6-521C94932F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3819E423-FB93-4406-8DB6-521C94932F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3819E423-FB93-4406-8DB6-521C94932F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C236D1-724D-4018-A2F5-04A7CA5452B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C236D1-724D-4018-A2F5-04A7CA5452B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C236D1-724D-4018-A2F5-04A7CA5452B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C236D1-724D-4018-A2F5-04A7CA5452B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DE8D64-BE51-4A5B-8A7D-FCDBEBF304EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DE8D64-BE51-4A5B-8A7D-FCDBEBF304EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DE8D64-BE51-4A5B-8A7D-FCDBEBF304EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DE8D64-BE51-4A5B-8A7D-FCDBEBF304EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
