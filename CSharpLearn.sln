@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnetcoreLearn", "aspnetco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lambdaLearn", "lambdaLearn\lambdaLearn.csproj", "{14DE8D64-BE51-4A5B-8A7D-FCDBEBF304EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcoreRazor", "aspnetcoreRazor\aspnetcoreRazor.csproj", "{76357D1A-133D-4312-80CB-8D419A832094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnetcoreRazor", "aspnetcoreRazor\aspnetcoreRazor.csproj", "{76357D1A-133D-4312-80CB-8D419A832094}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jsonTest", "jsonTest\jsonTest.csproj", "{CBEE5BA9-348B-4363-B620-1AB64A274405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EclippsTest", "EclippsTest\EclippsTest.csproj", "{00302688-7B3B-42CF-A69A-BBC1EDDF0D9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{76357D1A-133D-4312-80CB-8D419A832094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76357D1A-133D-4312-80CB-8D419A832094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76357D1A-133D-4312-80CB-8D419A832094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEE5BA9-348B-4363-B620-1AB64A274405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEE5BA9-348B-4363-B620-1AB64A274405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEE5BA9-348B-4363-B620-1AB64A274405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEE5BA9-348B-4363-B620-1AB64A274405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00302688-7B3B-42CF-A69A-BBC1EDDF0D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00302688-7B3B-42CF-A69A-BBC1EDDF0D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00302688-7B3B-42CF-A69A-BBC1EDDF0D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00302688-7B3B-42CF-A69A-BBC1EDDF0D9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
